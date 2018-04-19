@@ -8,6 +8,10 @@ public class MainDriver {
 		
 //		Shape shape = new Shape();
 //		System.out.println(shape);
+		
+//		CharList charList = new CharList("incomplete");
+//		System.out.println(charList);
+		
+		
 	}
-
 }
