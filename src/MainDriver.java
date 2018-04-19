@@ -6,8 +6,8 @@ public class MainDriver {
 //		Date date = new Date(0,0,-1);
 //		System.out.println(date);
 		
-		Shape shape = new Shape();
-		System.out.println(shape);
+//		Shape shape = new Shape();
+//		System.out.println(shape);
 	}
 
 }
